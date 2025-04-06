@@ -9,8 +9,7 @@
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
-- Active Directory Domain Services
-- PowerShell
+
 
 <h2>Operating Systems Used </h2>
 
@@ -19,10 +18,10 @@
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+- Login to Microsoft Azura
+- In the search bar type v then scroll down to virtual machines or click the home button on the left and then navigate to virtual machines.
+- Once you are in the virtual machine setup click the link that says create
+- Then select Azura Virtual Machine then follow the steps below
 
 <h2>Deployment and Configuration Steps</h2>
 
